@@ -1,5 +1,6 @@
 class Solution {
     public int findPeakElement(int[] nums) {
+        if(nums.length==1) return 0;
         int left=0;
         int right=nums.length-1;
 
