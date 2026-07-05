@@ -54,9 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aravind007e/Daily_activities/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
