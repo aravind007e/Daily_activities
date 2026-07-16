@@ -1,0 +1,28 @@
+class Solution {
+    public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
+
+        double [] pro=new double[n];
+        pro[start_node]=1.0;
+
+        for(int i=0;i<n-1;i++){
+            boolean update=false;
+            for(int j=0;j<edges.length;j++){
+            int first=edges[j][0];
+            int second=edges[j][1];
+            double weight=succProb[j];
+
+            if(pro[first]*weight>pro[second]){
+                pro[second]=pro[first]*weight;
+                update=true;
+            }
+             if(pro[second]*weight>pro[first]){
+                pro[first]=pro[second]*weight;
+                update=true;
+            }
+            }
+            if(!update) break;
+        }
+
+        return pro[end_node];
+    }
+}
