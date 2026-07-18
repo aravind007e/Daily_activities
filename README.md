@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
