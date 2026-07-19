@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
+| [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
+| [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
