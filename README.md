@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -115,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
