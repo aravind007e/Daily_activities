@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aravind007e/Daily_activities/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 ## Union-Find
 |  |
 | ------- |
