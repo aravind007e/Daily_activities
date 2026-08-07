@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aravind007e/Daily_activities/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aravind007e/Daily_activities/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/aravind007e/Daily_activities/tree/master/0134-gas-station) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 ## Number Theory
 |  |
 | ------- |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
