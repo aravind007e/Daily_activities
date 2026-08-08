@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aravind007e/Daily_activities/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aravind007e/Daily_activities/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
