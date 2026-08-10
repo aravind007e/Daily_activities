@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
 ## Stack
 |  |
@@ -302,4 +304,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
