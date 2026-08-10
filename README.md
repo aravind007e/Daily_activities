@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aravind007e/Daily_activities/tree/master/0322-coin-change) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
