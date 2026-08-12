@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/aravind007e/Daily_activities/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
 ## Divide and Conquer
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
