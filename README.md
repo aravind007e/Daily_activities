@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aravind007e/Daily_activities/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/aravind007e/Daily_activities/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tournament Sort
 |  |
