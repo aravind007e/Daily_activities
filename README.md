@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/aravind007e/Daily_activities/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aravind007e/Daily_activities/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
 | ------- |
@@ -328,14 +332,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -344,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
