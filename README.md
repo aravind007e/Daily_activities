@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aravind007e/Daily_activities/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aravind007e/Daily_activities/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
