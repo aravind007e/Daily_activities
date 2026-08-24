@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aravind007e/Daily_activities/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
