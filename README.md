@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/aravind007e/Daily_activities/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aravind007e/Daily_activities/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aravind007e/Daily_activities/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/aravind007e/Daily_activities/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -393,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
