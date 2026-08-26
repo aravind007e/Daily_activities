@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/aravind007e/Daily_activities/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
