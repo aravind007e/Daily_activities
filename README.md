@@ -413,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/aravind007e/Daily_activities/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/aravind007e/Daily_activities/tree/master/0182-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/aravind007e/Daily_activities/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
