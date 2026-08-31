@@ -7,11 +7,9 @@ class Solution {
         }
         int j=k;
         for(int i=0;i<n;i++){
-            if(!h.contains(j)){
-                return j;
-            }
+            if(!h.contains(j)) break;
             j+=k;
         }
-        return k*(n+1);
+        return j;
     }
 }
