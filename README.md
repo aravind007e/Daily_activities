@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [1927-sum-game](https://github.com/aravind007e/Daily_activities/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aravind007e/Daily_activities/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravind007e/Daily_activities/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aravind007e/Daily_activities/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravind007e/Daily_activities/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tournament Sort
