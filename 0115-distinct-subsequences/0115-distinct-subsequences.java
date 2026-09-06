@@ -14,9 +14,8 @@ class Solution {
                 } 
                 else {
                          dp[i][j] = dp[i - 1][j];
-                }
-                                                                                                                                }
-                                                                                                                             }
-                                                                                                                                           return (int) dp[m][n];
-                }
-       }
+                }                                                                                                   
+            }
+        }                                                                                                             return (int) dp[m][n];
+    }
+}
