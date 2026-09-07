@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/aravind007e/Daily_activities/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
+| [0940-distinct-subsequences-ii](https://github.com/aravind007e/Daily_activities/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aravind007e/Daily_activities/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aravind007e/Daily_activities/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravind007e/Daily_activities/tree/master/3090-maximum-length-substring-with-two-occurrences) |
