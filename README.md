@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aravind007e/Daily_activities/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
