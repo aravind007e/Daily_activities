@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/aravind007e/Daily_activities/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aravind007e/Daily_activities/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aravind007e/Daily_activities/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/aravind007e/Daily_activities/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aravind007e/Daily_activities/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
