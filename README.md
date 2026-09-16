@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/aravind007e/Daily_activities/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aravind007e/Daily_activities/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/aravind007e/Daily_activities/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aravind007e/Daily_activities/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aravind007e/Daily_activities/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
