@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aravind007e/Daily_activities/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravind007e/Daily_activities/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/aravind007e/Daily_activities/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aravind007e/Daily_activities/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravind007e/Daily_activities/tree/master/3090-maximum-length-substring-with-two-occurrences) |
