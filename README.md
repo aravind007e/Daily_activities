@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aravind007e/Daily_activities/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/aravind007e/Daily_activities/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aravind007e/Daily_activities/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aravind007e/Daily_activities/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/aravind007e/Daily_activities/tree/master/0836-rectangle-overlap) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aravind007e/Daily_activities/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aravind007e/Daily_activities/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/aravind007e/Daily_activities/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aravind007e/Daily_activities/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
