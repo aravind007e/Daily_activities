@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/aravind007e/Daily_activities/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aravind007e/Daily_activities/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/aravind007e/Daily_activities/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/aravind007e/Daily_activities/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aravind007e/Daily_activities/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/aravind007e/Daily_activities/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aravind007e/Daily_activities/tree/master/1927-sum-game) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/aravind007e/Daily_activities/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aravind007e/Daily_activities/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aravind007e/Daily_activities/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
