@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/aravind007e/Daily_activities/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aravind007e/Daily_activities/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aravind007e/Daily_activities/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/aravind007e/Daily_activities/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/aravind007e/Daily_activities/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aravind007e/Daily_activities/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
