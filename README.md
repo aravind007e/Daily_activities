@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aravind007e/Daily_activities/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aravind007e/Daily_activities/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravind007e/Daily_activities/tree/master/2094-finding-3-digit-even-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aravind007e/Daily_activities/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aravind007e/Daily_activities/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravind007e/Daily_activities/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aravind007e/Daily_activities/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aravind007e/Daily_activities/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/aravind007e/Daily_activities/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aravind007e/Daily_activities/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aravind007e/Daily_activities/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/aravind007e/Daily_activities/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aravind007e/Daily_activities/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
