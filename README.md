@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aravind007e/Daily_activities/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aravind007e/Daily_activities/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aravind007e/Daily_activities/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aravind007e/Daily_activities/tree/master/0090-subsets-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
