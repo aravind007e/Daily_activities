@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aravind007e/Daily_activities/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aravind007e/Daily_activities/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/aravind007e/Daily_activities/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aravind007e/Daily_activities/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aravind007e/Daily_activities/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aravind007e/Daily_activities/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/aravind007e/Daily_activities/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aravind007e/Daily_activities/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aravind007e/Daily_activities/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/aravind007e/Daily_activities/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aravind007e/Daily_activities/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
