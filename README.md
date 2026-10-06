@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aravind007e/Daily_activities/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aravind007e/Daily_activities/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aravind007e/Daily_activities/tree/master/0318-maximum-product-of-word-lengths) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aravind007e/Daily_activities/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aravind007e/Daily_activities/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aravind007e/Daily_activities/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
@@ -590,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/aravind007e/Daily_activities/tree/master/2396-strictly-palindromic-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
