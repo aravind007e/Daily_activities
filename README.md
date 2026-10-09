@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/aravind007e/Daily_activities/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0566-reshape-the-matrix) |
 | [0638-shopping-offers](https://github.com/aravind007e/Daily_activities/tree/master/0638-shopping-offers) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/aravind007e/Daily_activities/tree/master/0877-stone-game) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/aravind007e/Daily_activities/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/aravind007e/Daily_activities/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aravind007e/Daily_activities/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 |  |
