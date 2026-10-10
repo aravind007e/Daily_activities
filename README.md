@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aravind007e/Daily_activities/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aravind007e/Daily_activities/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/aravind007e/Daily_activities/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/aravind007e/Daily_activities/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aravind007e/Daily_activities/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -469,12 +470,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/aravind007e/Daily_activities/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/aravind007e/Daily_activities/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aravind007e/Daily_activities/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -603,9 +607,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/aravind007e/Daily_activities/tree/master/2396-strictly-palindromic-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aravind007e/Daily_activities/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
