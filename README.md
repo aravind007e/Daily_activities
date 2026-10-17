@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3193-count-the-number-of-inversions](https://github.com/aravind007e/Daily_activities/tree/master/3193-count-the-number-of-inversions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aravind007e/Daily_activities/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aravind007e/Daily_activities/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aravind007e/Daily_activities/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aravind007e/Daily_activities/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/aravind007e/Daily_activities/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aravind007e/Daily_activities/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aravind007e/Daily_activities/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
