@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/aravind007e/Daily_activities/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/aravind007e/Daily_activities/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aravind007e/Daily_activities/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/aravind007e/Daily_activities/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/aravind007e/Daily_activities/tree/master/2396-strictly-palindromic-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aravind007e/Daily_activities/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aravind007e/Daily_activities/tree/master/3658-gcd-of-odd-and-even-sums) |
