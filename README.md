@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/aravind007e/Daily_activities/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0566-reshape-the-matrix) |
 | [0638-shopping-offers](https://github.com/aravind007e/Daily_activities/tree/master/0638-shopping-offers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aravind007e/Daily_activities/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/aravind007e/Daily_activities/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
@@ -326,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 ## Quickselect
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
+| [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Tree
 |  |
