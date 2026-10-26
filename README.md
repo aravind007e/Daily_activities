@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aravind007e/Daily_activities/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aravind007e/Daily_activities/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aravind007e/Daily_activities/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aravind007e/Daily_activities/tree/master/0018-4sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aravind007e/Daily_activities/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/aravind007e/Daily_activities/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aravind007e/Daily_activities/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
