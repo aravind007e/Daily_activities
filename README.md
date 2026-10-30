@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aravind007e/Daily_activities/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/aravind007e/Daily_activities/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aravind007e/Daily_activities/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/aravind007e/Daily_activities/tree/master/0322-coin-change) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aravind007e/Daily_activities/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aravind007e/Daily_activities/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aravind007e/Daily_activities/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/aravind007e/Daily_activities/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/aravind007e/Daily_activities/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/aravind007e/Daily_activities/tree/master/0876-middle-of-the-linked-list) |
