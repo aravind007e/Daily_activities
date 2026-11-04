@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/aravind007e/Daily_activities/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/aravind007e/Daily_activities/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/aravind007e/Daily_activities/tree/master/0403-frog-jump) |
+| [0414-third-maximum-number](https://github.com/aravind007e/Daily_activities/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/aravind007e/Daily_activities/tree/master/0463-island-perimeter) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aravind007e/Daily_activities/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/aravind007e/Daily_activities/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aravind007e/Daily_activities/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/aravind007e/Daily_activities/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aravind007e/Daily_activities/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
