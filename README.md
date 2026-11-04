@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aravind007e/Daily_activities/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/aravind007e/Daily_activities/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aravind007e/Daily_activities/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/aravind007e/Daily_activities/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aravind007e/Daily_activities/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aravind007e/Daily_activities/tree/master/0054-spiral-matrix) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aravind007e/Daily_activities/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aravind007e/Daily_activities/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/aravind007e/Daily_activities/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aravind007e/Daily_activities/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aravind007e/Daily_activities/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aravind007e/Daily_activities/tree/master/0090-subsets-ii) |
