@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aravind007e/Daily_activities/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/aravind007e/Daily_activities/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aravind007e/Daily_activities/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aravind007e/Daily_activities/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aravind007e/Daily_activities/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aravind007e/Daily_activities/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/aravind007e/Daily_activities/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/aravind007e/Daily_activities/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aravind007e/Daily_activities/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravind007e/Daily_activities/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravind007e/Daily_activities/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aravind007e/Daily_activities/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/aravind007e/Daily_activities/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/aravind007e/Daily_activities/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aravind007e/Daily_activities/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aravind007e/Daily_activities/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/aravind007e/Daily_activities/tree/master/3477-fruits-into-baskets-ii) |
 ## Linked List
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aravind007e/Daily_activities/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/aravind007e/Daily_activities/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/aravind007e/Daily_activities/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aravind007e/Daily_activities/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aravind007e/Daily_activities/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/aravind007e/Daily_activities/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
